@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **hardivirani2003@gmail.com**
 
+- Explore Now [Portfolio](https://hardivirani.vercel.app/)
+
 
 
 <hr>
@@ -27,7 +29,7 @@
   <g-emoji class="g-emoji" alias="school" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3eb.png">🏫</g-emoji> I am an upcoming Spring'25, MS <code>student</code> at  University.
 </li>
 <li>
-  <g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji>I am a Content Writer of Google developer Student Club -PPSU Community.
+  <g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji>I am a Web Tech lead of Google developer Student Club -PPSU Community.
 </li>
 <li><g-emoji class="g-emoji" alias="technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f4bb.png">🧑‍💻</g-emoji> I love open-source contribution.</li>
 <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> I am a Problem Solver at <a href="https://leetcode.com/alpha_spidy/"><code>Leetcode</code></a>.</li>
