@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **hardivirani2003@gmail.com**
 
-- 🚀 Check Out My Work [My Portfolio](https://hardivirani.vercel.app/)
+- 🚀 Check Out My [Work](https://hardivirani.vercel.app/)
 
 
 
