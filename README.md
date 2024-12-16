@@ -127,9 +127,9 @@
         <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardi-virani&show_icons=true&locale=en" alt="hardi-virani" /></p>
   </div>
   <p dir="auto"><br></p> 
-  <div style="margin-top: 20px;" align="left">
+<!--   <div style="margin-top: 20px;" align="left">
         <p><img align="center" style="margin-left: 50px;" src="https://github-readme-streak-stats.herokuapp.com/?user=hardi-virani&" alt="hardi-virani" /></p>
-  </div>
+  </div> -->
 
 
   <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardi-virani&show_icons=true&locale=en&layout=compact" alt="hardi-virani" /></p> -->
