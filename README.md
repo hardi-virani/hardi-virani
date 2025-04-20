@@ -26,7 +26,7 @@
 <p dir="auto"></p>
 <ul dir="auto">
 <li>
-  <g-emoji class="g-emoji" alias="school" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3eb.png">🏫</g-emoji> I am an upcoming Spring'25, MS in Computer Software Engineering <code>student</code> at Northeastern University.
+  <g-emoji class="g-emoji" alias="school" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3eb.png">🏫</g-emoji> I am a Spring'25, MS in Computer Software Engineering Student <code>student</code> at Northeastern University.
 </li>
 <li>
   <g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji>I am a Web Tech lead of Google developer Student Club -PPSU Community.
