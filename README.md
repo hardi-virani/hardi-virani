@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Spring, SpringBoot, React.js, MERN, NextJs**
+- 💬 Ask me about **Spring, SpringBoot, React.js, Next.Js**
 
 - 📫 How to reach me **hardivirani2003@gmail.com**
 
